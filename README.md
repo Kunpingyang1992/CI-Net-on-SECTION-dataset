@@ -11,7 +11,7 @@ Fig.1 Examples of Data Samples in SECTION dataset.
 SECOND dataset is a large scale semantic change detection dataset for earth observation, where the data samples are derived from cities and urbans world-wide.
 </p> 
 
-<div id="img\-container" align="center"> <img src="figures/Fig4.png" width="1000px"> </div>
+<div id="img\-container" align="center"> <img src="figures/Dataset_samples_double_big.png" width="1000px"> </div>
   
 <p align="center"> 
 Fig.2 Examples of Data Samples in SECOND dataset.
