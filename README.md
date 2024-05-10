@@ -4,7 +4,7 @@ This is a dataset created for the research of change captioning, which consists 
 <div id="img\-container" align="center"> <img src="figures/Fig4.png" width="1000px"> <div id="img\-container" align="center">
   
 <p align="center">  
-Fig.1 Examples of Tumor Pixel Annoatations
+Fig.1 Examples of Data Samples in SECTION dataset.
 </p>  
 
 <p align="left"> 
