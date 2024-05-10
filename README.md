@@ -1,5 +1,5 @@
 # CI-Net-on-SECTION-dataset
-This is a dataset created for the research of change captioning, which consists of 4059 data samples of over 2000 scenes and 12200 annotated captions to better serve as a research platform for change captioning. In the folder "CI-Net-on-SECTION-dataset/figures/", several examples of multi-caption annotations based on SECOND dataset are reserved, which are displayed as follows.
+This is a dataset created for the research of change captioning, which consists of 4059 data samples of over 2000 scenes and 12200 annotated captions to better serve as a research platform for change captioning. In the folder "CI-Net-on-SECTION-dataset/Data/", several examples of multi-caption annotations based on SECOND dataset are reserved, which are displayed as follows.
 
 <div id="img\-container" align="center"> <img src="figures/Fig4.png" width="1000px"> <div id="img\-container" align="center">
   
