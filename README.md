@@ -1,7 +1,7 @@
 # CI-Net-on-SECTION-dataset
 This is a dataset created for the research of change captioning, which consists of 4059 data samples of over 2000 scenes and 12200 annotated captions to better serve as a research platform for change captioning. In the folder "CI-Net-on-SECTION-dataset/figures/", several examples of multi-caption annotations based on SECOND dataset are reserved, which are displayed as follows.
 
-<div id="img\-container" align="center"> <img src="https://github.com/chenly2006/A-Dataset-for-Tumor-Stroma-Ratio-Research/blob/main/figures/DX1.4E5FB4E5.jpg" width="300px"> <img src="https://github.com/chenly2006/A-Dataset-for-Tumor-Stroma-Ratio-Research/blob/main/figures/DX1.5FCD8890.jpg" width="300px"> <div id="img\-container" align="center">
+<div id="img\-container" align="center"> <img src="https://github.com/Kunpingyang1992/CI-Net-on-SECTION-dataset/figures/Fig4.png" width="300px"> <div id="img\-container" align="center">
   
 <p align="center">  
 Fig.1 Examples of Tumor Pixel Annoatations
