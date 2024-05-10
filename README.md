@@ -8,17 +8,13 @@ Fig.1 Examples of Data Samples in SECTION dataset.
 </p>  
 
 <p align="left"> 
-Meanwhile, we also provide some examples of core tumor region annotations based on real cases we collect in the folder "A-Dataset-for-Tumor-Stroma-Ratio-Research/figures-core-tumor-regions/", which are displayed as follows.
+SECOND dataset is a large scale semantic change detection dataset for earth observation, where the data samples are derived from cities and urbans world-wide.
 </p> 
 
-<div id="img\-container" align="center"> <img src="https://github.com/chenly2006/A-Dataset-for-Tumor-Stroma-Ratio-Research/blob/main/figures-core-tumor-regions/S14-10545-42022-08-15_16_38_35.jpg" width="300px" height="250px"> <img src="https://github.com/chenly2006/A-Dataset-for-Tumor-Stroma-Ratio-Research/blob/main/figures-core-tumor-regions/S15-29281-32022-08-22_16_50_05.jpg" width="300px" height="250px"> </div>
+<div id="img\-container" align="center"> <img src="figures/Fig4.png" width="1000px"> </div>
   
 <p align="center"> 
-Fig.2 Examples of Core Tumor Region Annoatations
-</p>  
-
-<p align="left"> 
-Further in the folder "A-Dataset-for-Tumor-Stroma-Ratio-Research/dataset/", we reserve servel xml files of the dataset, while the corresponding svs files can be found <a href="https://drive.google.com/drive/folders/1UR8hId9EcADRh7OeBk36s3zIxPNIZiT1?usp=drive_link" target="_blank" title="dataset">here</a>.
+Fig.2 Examples of Data Samples in SECOND dataset.
 </p>  
 
 <p align="left"> 
