@@ -18,6 +18,6 @@ Fig.2 Examples of Data Samples in SECOND dataset.
 </p>  
 
 <p align="left"> 
-The whole dataset will be available soon in the future.
+The whole dataset and code will be available soon here in the future.
 </p> 
 
